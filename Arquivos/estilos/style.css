@@ -4,6 +4,9 @@
 
 }
 
+
+
+
 body{
     background-color: rgb(146, 64, 224);
 
@@ -15,4 +18,25 @@ main {
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
     text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(58, 0,112);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(58, 0, 112);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+
+img.lado {
+    float: right;
+    
 }
